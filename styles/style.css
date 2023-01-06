@@ -35,13 +35,17 @@
 }
 .failure-section{
     background-color: rgba(17, 3, 5, 0.524);
-   margin-bottom: 1200px;
-    padding-right: 200px;
+   margin:0;
+   
     
 }
 .reason-failure{
     text-align: left;
     margin-left: 800px;
-    padding-top: 400px;
+    padding-top: 200px;
+    padding-right: 100px;
     
+}
+.skills-container{
+    display: flex;
 }
