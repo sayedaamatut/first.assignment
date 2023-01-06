@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+   }
+
+.banner{
+    font-size: 15px;
+    text-align: right; 
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-color: aliceblue;
+    background-position:auto;
+}
+.banner-title{
+   padding-top:200px;
+   padding-right: 200px;
+}
+.banner-description{
+   
+    padding-right: 200px;
+    padding-left: 600px;
+
+}
+.btn-primary{
+    height: 60px;
+    border: 0;
+    background: #FD6E0A;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 18px 35px;
+    font-size: 20px;
+    font-weight: 200;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+.failure-section{
+    background-color: rgba(17, 3, 5, 0.524);
+   margin-bottom: 1200px;
+    padding-right: 200px;
+    
+}
+.reason-failure{
+    text-align: left;
+    margin-left: 800px;
+    padding-top: 400px;
+    
+}
